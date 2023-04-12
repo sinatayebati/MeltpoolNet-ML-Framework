@@ -1,4 +1,4 @@
-# MeltpoolNet-ML-Framework
+# MeltpoolNet
 A machine learning (ML) framework for prediction of metal additive manufacturing (MAM) trace characteristic and process optimization.
 
 ![Screenshot 2023-04-11 at 8 58 58 PM](https://user-images.githubusercontent.com/56824605/231329982-a531b688-36ab-43c6-b7a2-3da313ff3207.png)
